@@ -6,3 +6,5 @@ for (const c of persons) {
   greet(c);
 }
 console.log(1);
+
+console.log(1);
